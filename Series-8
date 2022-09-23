@@ -1,0 +1,6 @@
+#python
+n=int(input())
+x=4
+for i in range(0,n):
+    x=x+i**2
+    print(x)

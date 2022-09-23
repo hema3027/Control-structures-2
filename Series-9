@@ -1,0 +1,7 @@
+#python
+n=int(input())
+x=2
+print(x)
+for i in range(0,n-1):
+    x=x**2-1
+    print(x)
